@@ -1,0 +1,102 @@
+h1{
+font-size: 30px;
+}
+
+h2{
+font-size: 50px;
+text-transform: uppercase;
+}
+
+h3{
+font-size: 30px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+p, ul{
+    color: #50413c;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2, h3, h4{
+    color: #30231d;
+    font-family: 'Proza Libre', sans-serif
+
+}
+body{
+    background-color: #f6f1ed;
+}
+.sub-titleSeccion, .titleSeccion{
+    color: #cc3914;
+}
+.titleSeccion{
+    border-bottom: solid #cc3914;
+}
+.icon{
+    width: 15%;
+    float: left;
+}
+#photo{
+    width: 100%;
+}
+#photo, #menu-cv, #social{
+    margin-left: 10%;
+    
+}
+#leftPart{
+    float: left;
+    width:25%;
+    margin-top: 5%;
+}
+#rightPart{
+    float: right;
+    width: 75%;
+    margin-top: 5%;
+}
+.clearfix{
+    overflow: auto;
+}
+.seccion{
+    margin-bottom: 2%;
+    border-radius: 20px;
+    background-color: white;
+    padding: 30px 40px 30px 40px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#title{
+    font-size: 20px;
+    border-bottom: solid;
+    border-color: #cc3914;
+}
+li{
+    margin-bottom: 15px;
+}
+.menu{
+    font-size: 20px;
+    margin-bottom: 2%;
+    border-bottom: solid #cc3914;
+}
+.contact{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    border-bottom: dotted #cc3914;
+}
+#job{
+    font-size: 20px;
+    color: #cc3914;
+}
+i{
+    font-size: 48px;
+}
+a{
+    text-decoration: none;
+    color: #50413c;
+    font-family: 'Open Sans', sans-serif;
+}
+ul.lista{
+    padding: 0;
+    margin: 0;
+}
